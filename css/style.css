@@ -115,3 +115,20 @@ table {
   tr:nth-child(odd) {
     background-color: darkolivegreen;
   }
+  label{
+    display: inline-block;
+    font-size: 17px;
+    float: left;
+    clear: left;
+    width: 125px;
+    text-align: left; 
+}
+input {
+  display: inline-block;
+  float: left;
+}
+
+h3{
+    color: darkgray;
+    font-size: 20px;
+}
