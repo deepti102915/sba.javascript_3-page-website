@@ -67,3 +67,51 @@ ul li.active a{
 color: #fff;
 font-size: 60px;
 }
+
+p{
+    color: darkgray;
+    font-size: 20px;
+    }
+
+h2{
+        color: darkgray;
+        font-size: 30px;
+    }
+form{
+    color: darkgray;
+    font-size: 30px;
+}
+
+option{
+    color: darkgray;
+    font-size: 30px;
+}
+
+select{
+    color: red;
+    font-size: 20px;
+}
+h4{
+    color: darkgray;
+    font-size: 15px;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    color: darkgray;
+  }
+  
+  td, th {
+    border: 1px solid darkgray;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: darkolivegreen;
+  }
+  tr:nth-child(odd) {
+    background-color: darkolivegreen;
+  }
