@@ -31,4 +31,27 @@ Access my website by navigating to this link: https://deepti102915.github.io/sba
   * Hosted on GitHub,  included the link to my GitHub account in the README file
   * Submitted the project in a ZIP file
 
+  ## Technical requirements Fulfilled:
+
+* HTML
+  * Have at least 3 pages, keep the grid system consistent as much as possible
+  * Use at least 10 different HTML tags
+  * Use HTML tables
+  * Implement at least two uses for forms
+  * Dropped Down Menu 
+  * Use web fonts
+  * Use different types of content in the form of text, images, videos, and GIFs
+  
+
+* CSS
+  * Inline, internal, and external styling
+  * Use five different CSS selectors
+  * Don’t use too many fonts
+  * Use colors that complement each other
+  
+
+* Javascript
+  * External scripts
+  * Use variables, if statements, loops, at least one form of collections, functions/call back, and events
+  
 
