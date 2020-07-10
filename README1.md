@@ -6,7 +6,7 @@ Access my website by navigating to this link: "https://github.com/deepti102915/s
 
 ### Description
 
-* For this Skill-based Assessment, i have created a small website Slack Builders and Developers. The main purpose of this website is that any customer can log into this website and look for their dream house. I have used HTML structure and followed the methodology of visual design. I have used CSS for styling my web pages. I have used Java Script to implement the funtions, Loops and mathematical calculations.t
+* For this Skill-based Assessment, i have created a small website Slack Builders and Developers. The main purpose of this website is that any customer can log into this website and look for their dream house. I have used HTML structure and followed the methodology of visual design. I have used CSS for styling my web pages. I have used Java Script to implement the funtions, Loops and mathematical calculations.
 
 * At the header of the website you can see there are the tabs which directs you to different pages like: Home, Abot Us, Products, Locations, Enquiry, EMI Calculator and contact us.
 
