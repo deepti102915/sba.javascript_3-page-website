@@ -137,3 +137,71 @@ h3{
     text-align: center;
     
 }
+
+
+.divShell{
+    background-color: antiquewhite
+  }
+  
+  H1{
+    text-align: center
+  }
+  form{
+    border-radius: 15px;
+    background-color: bisque;
+    align-self: center;
+    color: darkgray;
+    font-size: 15px;
+    text-align: center;
+    margin: 6px;
+    padding-top: 10px;
+    padding-bottom:40px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+  .loanBlock{
+    text-align: left;
+    font-weight: bold;
+    padding: 20px;
+  }
+  
+  .aprBlock{
+    text-align: right;
+    font-weight: bold;
+    padding: 20px;
+  }
+  
+  .tenureBlock{
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+  }
+  
+  .buttonBlock{
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 20px;
+    padding-right:20px
+  }
+  
+  button{
+    position: relative;
+    left: 42.5%;
+    bottom: 25%;
+    background-color: navy;
+    color: white;
+    padding: 10px;
+    border-radius: 30px
+  }
+  
+  #EMICapt{
+  
+    border-radius: 10px;
+    background-color: darkolivegreen;
+    color: rgb(236, 17, 17);
+    padding: 20px;
+    text-align: center
+  }

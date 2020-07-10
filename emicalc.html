@@ -14,7 +14,7 @@
 
 
   <link href="./css/style.css" rel="stylesheet">
-  <script type="text/javascript" src="./js/header-functions.js"></script>
+  <script type="text/javascript" src="./js/EMICalculator.js"></script>
 
 </head> <!-- header ends here -->
 <!-- ----------------------------------------------------------------- -->
@@ -44,7 +44,7 @@
       </div>
       <div class= "main">
         <ul>
-          <li class="active"> <a href="index.html">Home</a></li>
+          <li> <a href="index.html">Home</a></li>
           <li> <a href="aboutus.html">About Us</a></li>
           <li> <a href="products.html">Products</a></li>
           <li> <a href="Locations.html">Locations</a></li>
@@ -54,6 +54,27 @@
         </ul> 
       </div>
       <div class="title">
+        <h2 style="text-align: center;color: whitesmoke;">EMI Calculator for Home Loans</h2>
+        <form name="loan-form" onsubmit="return calculator()">
+        <div class='loanBlock'> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;
+         Loan Amount
+         <input type=number id="amount" style="border-radius:5px"><br>
+        </div>
+         <div class='aprBlock'> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+         Annual Percent Rate
+         <input type=number name="apr" id="apr" style="border-radius:5px"><br>
+         </div>
+         <div class='tenureBlock'>&nbsp
+         Tenure
+         <input type=number name="tenure" id="tenure" style="border-radius:5px">
+         
+          </div>
+          <div id=text>
+        <button style="width: 100px; margin: 0 auto">Find Out</button>
+          </div>
+        </form>
+        <P id="EMICapt"></P>
+        <script src='script.js'> </script>
       </div>
   </div>
 </header>
