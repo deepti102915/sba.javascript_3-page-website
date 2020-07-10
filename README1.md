@@ -1,5 +1,5 @@
 # Website for "SLACK BUILDERS AND DEVELOPERS"
-Access my website by navigating to this link: "https://github.com/deepti102915/sba.javascript_3-page-website.git"
+Access my website by navigating to this link: https://deepti102915.github.io/sba.javascript_3-page-website/.
 
 
 
